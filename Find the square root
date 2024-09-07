@@ -1,0 +1,8 @@
+# Python program to calculate the square root
+
+num = float(input('Enter a number: '))
+
+num_sq = num * num
+print('The square root is:')
+print(num_sq)
+
